@@ -83,6 +83,7 @@ print(df.isnull().sum())
 print(df.nunique())
  ```
  ![[.nunique]](/Picures/5.uniques.png)
+ 
 *number of unique values in each column*
 
 ## Draw a Box plot to show the distribution of data and identify outliers
