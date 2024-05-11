@@ -59,6 +59,7 @@ df
 df.info()
  ```
  ![[.info]](/Picures/2.info.png)
+
 *infomation of the dataset and its attributes*
 
 ## .describe()
@@ -67,6 +68,7 @@ df.info()
 print(df.describe())
  ```
  ![[.info]](/Picures/3.describe.png)
+
 *Discrptive stats for the dataset*
 
 ## .isnull()
@@ -75,6 +77,7 @@ print(df.describe())
 print(df.isnull().sum())
  ```
  ![[.isnull]](/Picures/4.num_of_nulls.png)
+
 *number of null values in each column*
 
 ## .nunique()
@@ -83,7 +86,7 @@ print(df.isnull().sum())
 print(df.nunique())
  ```
  ![[.nunique]](/Picures/5.uniques.png)
- 
+
 *number of unique values in each column*
 
 ## Draw a Box plot to show the distribution of data and identify outliers
@@ -93,6 +96,7 @@ I used the **.boxplot()** function to create a box plot.
 df.boxplot()
 ```
  ![[boxplot]](/Picures/boxplot.png)
+
 *boxplot*
 
 **Results**
@@ -106,6 +110,7 @@ df.sort_values(by=['2022 Population'], ascending=False, inplace= True)
 df.head()
  ```
  ![top 5](/Picures/6.top%205.png)
+ 
 *top 5 countries by population*
 
 **Results:** **China** as per 2022 results, it has the highest population. Followed by **India**, **USA**, **Indonesia** and **Pakstan**, in that order.
