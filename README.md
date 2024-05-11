@@ -59,7 +59,7 @@ df
 df.info()
  ```
  ![[.info]](/Picures/2.info.png)
-
+ 
 *infomation of the dataset and its attributes*
 
 ## .describe()
@@ -110,7 +110,6 @@ df.sort_values(by=['2022 Population'], ascending=False, inplace= True)
 df.head()
  ```
  ![top 5](/Picures/6.top%205.png)
- 
 *top 5 countries by population*
 
 **Results:** **China** as per 2022 results, it has the highest population. Followed by **India**, **USA**, **Indonesia** and **Pakstan**, in that order.
