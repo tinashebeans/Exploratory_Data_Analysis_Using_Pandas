@@ -189,7 +189,7 @@ df2.plot()
 
 2. There was sharp increase in Population in Asia from 1990 to 2000. This is beacause of low mortality rates and improved health facilities.
 
-3. From 2000 to 2022 there haas been a steady increase in population in Asia due to the controled fertility laws that try to maintain the population growt rate at a minimum. Also due to the increased level of education of women. 
+3. From 2000 to 2022 there haas been a steady increase in population in Asia due to the controlled fertility laws eg One child policy in China and the Singapore that tried to maintain the population growth rate at a minimum. Also due to the increased level of education of women. 
 
 4. Other continents like Africa, Europe, North and South America have a steady growth in population.
 
